@@ -1,0 +1,2 @@
+# magotech
+Magomeni Technology
